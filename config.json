@@ -1,6 +1,6 @@
 {
     "webhook": "https://discord.com/api/webhooks",
-    "user_ids": {
+    "user_ids": {1558801258}
         "4130644805": {
             "precense_tracker": true,
             "friends_tracker": true,
