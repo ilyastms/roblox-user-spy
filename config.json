@@ -1,7 +1,7 @@
 {
-    "webhook": "https://discord.com/api/webhooks",
+    "webhook": "https://discord.com/channels/@me/1247291414153396236",
     "user_ids": {
-        "4130644805": {
+        "1558801258": {
             "precense_tracker": true,
             "friends_tracker": true,
             "currently_wearing_tracker": true,
